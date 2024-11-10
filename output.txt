@@ -1,0 +1,4 @@
+Run the project 
+Training Accuracy: 95.96%
+Testing Accuracy: 82.18%
+Script completed successfully. 
